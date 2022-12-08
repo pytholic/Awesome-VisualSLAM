@@ -47,6 +47,9 @@
 **Computer Vision Group TUM**
 [Home](https://vision.in.tum.de/home)
 
+**The Dyson Robotics Lab at Imperial College**
+[Home](https://www.imperial.ac.uk/dyson-robotics-lab/)
+
 # Blogs
 ## SLAM
 [Mathworks](https://www.mathworks.com/discovery/slam.html)
