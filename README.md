@@ -31,6 +31,8 @@
 # Lectures
 [Cyrill Stachniss Lectures](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)
 
+[Tartan SLAM Series](https://www.youtube.com/watch?v=tm4E1o11kGo&list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)
+
 # Youtube
 [Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
 
