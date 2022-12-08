@@ -1,25 +1,25 @@
 # Papers and codes
-**DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras**
+DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras
 [Paper](https://arxiv.org/abs/2108.10869)
 [Code](https://github.com/princeton-vl/DROID-SLAM)
 
 
-**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**
+TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
 [Paper](https://arxiv.org/abs/2111.07418)
 [Code](https://github.com/tum-vision/tandem)
 
-**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**
+Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry
 [Paper](https://arxiv.org/abs/2205.05916)
 [Code](https://github.com/Geniussh/DytanVO)
 
-**An Overview on Visual SLAM: From Tradition to Semantic**
+An Overview on Visual SLAM: From Tradition to Semantic
 [Paper](https://www.mdpi.com/2072-4292/14/13/3010)
 
-**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**
+**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments
 [Paper](https://arxiv.org/pdf/2208.11500v1.pdf)
 [Code](https://github.com/url-kaist/dynavins)
 
-**Deep Depth Estimation from Visual-Inertial SLAM**
+Deep Depth Estimation from Visual-Inertial SLAM
 [Paper](https://arxiv.org/pdf/2008.00092v2.pdf)
 [Code](https://github.com/MARSLab-UMN/vi_depth_completion)
 
