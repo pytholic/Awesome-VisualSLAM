@@ -31,6 +31,9 @@
 # Lectures
 [Cyrill Stachniss Lectures](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)
 
+# Youtube
+[Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
+
 # Courses
 [Robotics: Perception](coursera.org/lecture/robotics-perception/visual-odometry-ReEv0)
 
