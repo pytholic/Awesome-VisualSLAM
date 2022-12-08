@@ -34,6 +34,8 @@
 # Youtube
 [Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
 
+[Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series](https://www.youtube.com/watch?v=s9yc9-d-Vc8&t=3012s)
+
 # Courses
 [Robotics: Perception](coursera.org/lecture/robotics-perception/visual-odometry-ReEv0)
 
