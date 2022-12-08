@@ -15,7 +15,7 @@ Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry
 An Overview on Visual SLAM: From Tradition to Semantic
 [Paper](https://www.mdpi.com/2072-4292/14/13/3010)
 
-**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments
+DynaVINS: A Visual-Inertial SLAM for Dynamic Environments
 [Paper](https://arxiv.org/pdf/2208.11500v1.pdf)
 [Code](https://github.com/url-kaist/dynavins)
 
