@@ -44,11 +44,14 @@
 [3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)
 
 # Labs and Groups
-**Computer Vision Group TUM**
+Computer Vision Group TUM
 [Home](https://vision.in.tum.de/home)
 
-**The Dyson Robotics Lab at Imperial College**
+The Dyson Robotics Lab at Imperial College
 [Home](https://www.imperial.ac.uk/dyson-robotics-lab/)
+
+Computer Vision and Geometry Group
+[Home](http://www.cvg.ethz.ch/index.php)
 
 # Blogs
 ## SLAM
