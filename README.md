@@ -43,6 +43,9 @@
 
 [3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)
 
+# Labs and Groups
+**Computer Vision Group TUM**
+[Home](https://vision.in.tum.de/home)
 
 # Blogs
 ## SLAM
