@@ -38,7 +38,12 @@
 
 
 # Blogs
+## SLAM
 [Mathworks](https://www.mathworks.com/discovery/slam.html)
+
+## Pinhole camera model
+[What are Intrinsic and Extrinsic Camera Parameters in Computer Vision?](https://towardsdatascience.com/what-are-intrinsic-and-extrinsic-camera-parameters-in-computer-vision-7071b72fb8ec)
+[Image Formation and Pinhole Model of the Camera](https://towardsdatascience.com/image-formation-and-pinhole-model-of-the-camera-53872ee4ee92)
 
 # People
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
