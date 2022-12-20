@@ -64,4 +64,5 @@ Computer Vision and Geometry Group
 
 # People and Channels
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
+
 [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258/featured)
