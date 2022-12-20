@@ -33,7 +33,7 @@ Deep Depth Estimation from Visual-Inertial SLAM
 
 [Tartan SLAM Series](https://www.youtube.com/watch?v=tm4E1o11kGo&list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)
 
-# Youtube
+# Youtube Videos
 [Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
 
 [Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series](https://www.youtube.com/watch?v=s9yc9-d-Vc8&t=3012s)
@@ -62,5 +62,6 @@ Computer Vision and Geometry Group
 
 [Image Formation and Pinhole Model of the Camera](https://towardsdatascience.com/image-formation-and-pinhole-model-of-the-camera-53872ee4ee92)
 
-# People
+# People and Channels
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
+[First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258/featured)
