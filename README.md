@@ -7,6 +7,7 @@ DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras
 TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
 [Paper](https://arxiv.org/abs/2111.07418)
 [Code](https://github.com/tum-vision/tandem)
+[Project page](https://vision.in.tum.de/research/vslam/tandem)
 
 Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry
 [Paper](https://arxiv.org/abs/2205.05916)
@@ -22,6 +23,14 @@ DynaVINS: A Visual-Inertial SLAM for Dynamic Environments
 Deep Depth Estimation from Visual-Inertial SLAM
 [Paper](https://arxiv.org/pdf/2008.00092v2.pdf)
 [Code](https://github.com/MARSLab-UMN/vi_depth_completion)
+
+Atlas: End-to-End 3D Scene Reconstruction from Posed Images
+[Paper](https://arxiv.org/abs/2003.10432)
+[Code](https://github.com/pytholic/Atlas)
+
+DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
+[Paper](https://arxiv.org/abs/2001.05049)
+[Code](https://github.com/jczarnowski/DeepFactors)
 
 # Books
 [slambook-en](https://github.com/gaoxiang12/slambook-en)
