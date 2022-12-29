@@ -96,6 +96,8 @@ Computer Vision and Geometry Group
 
 [From depth map to point cloud](https://medium.com/yodayoda/from-depth-map-to-point-cloud-7473721d3f)
 
+[Dissecting the Camera Matrix, Part 3: The Intrinsic Matrix](http://ksimek.github.io/2013/08/13/intrinsic/)
+
 # People and Channels
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
 
