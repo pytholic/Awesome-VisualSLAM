@@ -33,7 +33,7 @@ DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 [Code](https://github.com/jczarnowski/DeepFactors)
 
 VOLDOR-SLAM: For the Times When Feature-Based or Direct Methods Are Not Good Enough
-[Paper](https://arxiv.org/abs/2001.05049)
+[Paper](https://arxiv.org/abs/2104.06800)
 [Code](https://github.com/htkseason/VOLDOR)
 
 RAFT: Recurrent All Pairs Field Transforms for Optical Flow
