@@ -94,6 +94,8 @@ Computer Vision and Geometry Group
 
 [Image Formation and Pinhole Model of the Camera](https://towardsdatascience.com/image-formation-and-pinhole-model-of-the-camera-53872ee4ee92)
 
+[From depth map to point cloud](https://medium.com/yodayoda/from-depth-map-to-point-cloud-7473721d3f)
+
 # People and Channels
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
 
