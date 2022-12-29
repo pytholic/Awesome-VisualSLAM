@@ -32,6 +32,27 @@ DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 [Paper](https://arxiv.org/abs/2001.05049)
 [Code](https://github.com/jczarnowski/DeepFactors)
 
+VOLDOR-SLAM: For the Times When Feature-Based or Direct Methods Are Not Good Enough
+[Paper](https://arxiv.org/abs/2001.05049)
+[Code](https://github.com/htkseason/VOLDOR)
+
+RAFT: Recurrent All Pairs Field Transforms for Optical Flow
+[Paper](https://arxiv.org/pdf/2003.12039.pdf)
+[Code](https://github.com/princeton-vl/RAFT)
+
+DeepV2D: Video to Depth with Differentiable Structure from Motion
+[Paper](https://arxiv.org/abs/1812.04605)
+[Code](https://github.com/princeton-vl/DeepV2D)
+
+DeepTAM: Deep Tracking and Mapping
+[Paper](https://arxiv.org/pdf/1808.01900.pdf)
+[Code](https://github.com/lmb-freiburg/deeptam)
+[Project page](https://lmb.informatik.uni-freiburg.de/people/zhouh/deeptam/)
+
+CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM
+[Paper](https://arxiv.org/pdf/1804.00874.pdf)
+[Code](https://github.com/silviutroscot/CodeSLAM)
+
 # Books
 [slambook-en](https://github.com/gaoxiang12/slambook-en)
 
