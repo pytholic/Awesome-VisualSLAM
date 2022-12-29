@@ -43,6 +43,8 @@ DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 [Tartan SLAM Series](https://www.youtube.com/watch?v=tm4E1o11kGo&list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)
 
 # Youtube Videos
+[The Basics about Bundle Adjustment](https://www.youtube.com/watch?v=sobyKHwgB0Y&t=969s)
+
 [Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
 
 [Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series](https://www.youtube.com/watch?v=s9yc9-d-Vc8&t=3012s)
