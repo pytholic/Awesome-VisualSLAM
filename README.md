@@ -118,6 +118,9 @@ The Dyson Robotics Lab at Imperial College
 
 Computer Vision and Geometry Group
 [Home](http://www.cvg.ethz.ch/index.php)
+
+StachnissLab-Photogrammetry & Robotics
+[Home](https://www.ipb.uni-bonn.de/)
 <br></br>
 
 # Blogs
