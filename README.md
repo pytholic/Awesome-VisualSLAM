@@ -1,4 +1,9 @@
 # Papers and codes
+
+## Monocular SLAM<br></br>
+
+### RGB <br></br>
+
 DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras
 [Paper](https://arxiv.org/abs/2108.10869)
 [Code](https://github.com/princeton-vl/DROID-SLAM)
@@ -24,10 +29,6 @@ Deep Depth Estimation from Visual-Inertial SLAM
 [Paper](https://arxiv.org/pdf/2008.00092v2.pdf)
 [Code](https://github.com/MARSLab-UMN/vi_depth_completion)
 
-Atlas: End-to-End 3D Scene Reconstruction from Posed Images
-[Paper](https://arxiv.org/abs/2003.10432)
-[Code](https://github.com/pytholic/Atlas)
-
 DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 [Paper](https://arxiv.org/abs/2001.05049)
 [Code](https://github.com/jczarnowski/DeepFactors)
@@ -52,16 +53,47 @@ DeepTAM: Deep Tracking and Mapping
 CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM
 [Paper](https://arxiv.org/pdf/1804.00874.pdf)
 [Code](https://github.com/silviutroscot/CodeSLAM)
+<br></br>
+
+### RGB and camera poses <br></br>
+SimpleRecon: 3D Reconstruction Without 3D Convolutions
+[Paper](https://arxiv.org/abs/2208.14743)
+[Code](https://github.com/nianticlabs/simplerecon)
+
+NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
+[Paper](https://arxiv.org/pdf/2104.00681.pdf)
+[Code](https://github.com/zju3dv/NeuralRecon)
+[Project page](https://zju3dv.github.io/neuralrecon/)
+
+Atlas: End-to-End 3D Scene Reconstruction from Posed Images
+[Paper](https://arxiv.org/abs/2003.10432)
+[Code](https://github.com/pytholic/Atlas)
+<br></br>
+
+## RGB-D SLAM <br></br>
+iMAP
+Implicit Mapping and Positioning in Real-Time
+[Paper](https://arxiv.org/abs/2103.12352)
+[Code](https://github.com/tymoteuszb/implicit-slam)
+[Project page](https://edgarsucar.github.io/iMAP/)
+
 
 # Books
 [slambook-en](https://github.com/gaoxiang12/slambook-en)
 
 [Computer Vision: Algorithms and Applications](https://1drv.ms/b/s!Aod3QkjqR-C8cMjDQmlJW4Y02jw?e=yabZOy)
 
+[Multiple View Geometry in Computer Vision
+Second Edition](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)
+<br></br>
+
 # Lectures
 [Cyrill Stachniss Lectures](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)
 
 [Tartan SLAM Series](https://www.youtube.com/watch?v=tm4E1o11kGo&list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)
+
+[3D Computer Vision - NUS](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+<br></br>
 
 # Youtube Videos
 [The Basics about Bundle Adjustment](https://www.youtube.com/watch?v=sobyKHwgB0Y&t=969s)
@@ -69,11 +101,13 @@ CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM
 [Feature-based, Direct, and Deep Learning Methods of Visual Odometry](https://www.youtube.com/watch?v=VOlYuK6AtAE)
 
 [Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series](https://www.youtube.com/watch?v=s9yc9-d-Vc8&t=3012s)
+<br></br>
 
 # Courses
 [Robotics: Perception](coursera.org/lecture/robotics-perception/visual-odometry-ReEv0)
 
 [3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)
+<br></br>
 
 # Labs and Groups
 Computer Vision Group TUM
@@ -84,10 +118,12 @@ The Dyson Robotics Lab at Imperial College
 
 Computer Vision and Geometry Group
 [Home](http://www.cvg.ethz.ch/index.php)
+<br></br>
 
 # Blogs
 ## SLAM
 [Mathworks](https://www.mathworks.com/discovery/slam.html)
+<br></br>
 
 ## Pinhole camera model
 [What are Intrinsic and Extrinsic Camera Parameters in Computer Vision?](https://towardsdatascience.com/what-are-intrinsic-and-extrinsic-camera-parameters-in-computer-vision-7071b72fb8ec)
@@ -97,6 +133,12 @@ Computer Vision and Geometry Group
 [From depth map to point cloud](https://medium.com/yodayoda/from-depth-map-to-point-cloud-7473721d3f)
 
 [Dissecting the Camera Matrix, Part 3: The Intrinsic Matrix](http://ksimek.github.io/2013/08/13/intrinsic/)
+<br></br>
+
+## Depth estimation
+[Depth Estimation: Basics and Intuition
+](https://towardsdatascience.com/depth-estimation-1-basics-and-intuition-86f2c9538cd1)
+<br></br>
 
 # People and Channels
 [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
