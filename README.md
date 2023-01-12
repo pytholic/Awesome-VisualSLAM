@@ -138,6 +138,8 @@ StachnissLab-Photogrammetry & Robotics
 [Dissecting the Camera Matrix, Part 3: The Intrinsic Matrix](http://ksimek.github.io/2013/08/13/intrinsic/)
 <br></br>
 
+[Estimate Point Clouds From Depth Images in Python](https://betterprogramming.pub/point-cloud-computing-from-rgb-d-images-918414d57e80)
+
 ## Depth estimation
 [Depth Estimation: Basics and Intuition
 ](https://towardsdatascience.com/depth-estimation-1-basics-and-intuition-86f2c9538cd1)
