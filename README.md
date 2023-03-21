@@ -1,3 +1,6 @@
+# Roadmaps
+[A good roadmap](https://github.com/changh95/visual-slam-roadmap)
+
 # Papers and codes
 
 ## Monocular SLAM<br></br>
@@ -103,7 +106,10 @@ Second Edition](http://www.r-5.org/files/books/computers/algo-list/image-process
 [Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series](https://www.youtube.com/watch?v=s9yc9-d-Vc8&t=3012s)
 <br></br>
 
+[TUM Playlist](https://www.youtube.com/user/cvprtum/playlists)
+
 # Courses
+[SLAM course by Cyrill Stachniss](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1&ab_channel=CyrillStachniss)<br></br>
 [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-for-flying-robots)<br></br>
 [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars)<br></br>
 [3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)<br></br>
