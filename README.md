@@ -104,10 +104,10 @@ Second Edition](http://www.r-5.org/files/books/computers/algo-list/image-process
 <br></br>
 
 # Courses
-[Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-for-flying-robots)
-[Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars)
-[3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)
-<br></br>
+[Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-for-flying-robots)<br></br>
+[Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars)<br></br>
+[3D Reconstruction - Multiple Viewpoints](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints)<br></br>
+[NUS - 3D Computer Vision](https://www.youtube.com/watch?v=LAHQ_qIzNGU)
 
 # Labs and Groups
 Computer Vision Group TUM
